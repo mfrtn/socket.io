@@ -1,0 +1,15 @@
+{
+  "name": "socket-io",
+  "version": "1.0.0",
+  "description": "my first laravel socket-io redis-io broadcasting app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mohammad Foroutan",
+  "license": "ISC",
+  "dependencies": {
+    "ioredis": "^5.2.3",
+    "socket.io": "^4.5.1"
+  }
+}
